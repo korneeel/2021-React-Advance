@@ -1,12 +1,12 @@
 import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Index from './6-useReducer/withReducer';
+import FetchExample from './9-custom-hooks/1-fetch-exapmle';
 
 
 function App() {
   return (
     <div className="container">
-      <Index/>
+      <FetchExample/>
     </div>
   );
 }

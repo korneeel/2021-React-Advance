@@ -1,5 +1,5 @@
 import React, {useState} from 'react'
-import { data } from '../../../src/1-useState/setup/data'
+import { data } from './data'
 
 function useStateArray() {
 

@@ -5,6 +5,7 @@ body {
     sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  background: grey;
 }
 
 code {
@@ -12,6 +13,7 @@ code {
     monospace;
 }
 body {
+  background: #C0C0C0!important;
   text-align: center;
 }
 * {
