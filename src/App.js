@@ -1,12 +1,12 @@
 import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Index from './10-proto-types';
+import ReactRouterSetup from './11-React-Router-dom';
 
 
 function App() {
   return (
     <div className="container">
-      <Index/>
+      <ReactRouterSetup/>
     </div>
   );
 }
