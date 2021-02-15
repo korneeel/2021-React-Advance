@@ -1,12 +1,11 @@
 import React from 'react'
 import 'bootstrap/dist/css/bootstrap.min.css';
-import Index from './12-memo-useMemo-useCallback';
-
+import ReactRouterSetup from './11-React-Router-dom/index.js'
 
 function App() {
   return (
     <div className="container">
-      <Index/>
+      <ReactRouterSetup/>
     </div>
   );
 }
